@@ -1,7 +1,7 @@
 ### Oiii, eu sou a Poliana 👋
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando UI/UX Desing
+- 🔭 Atualmente sou estudante do curso de Egenharia de Software
+- 🌱 Trabalhando e estudando UI/UX Desing
 - 📫 Contate-me no e-mail: poliana.santos.queiroz@gmail.com
 - 😄 Pronouns: ela/dela
 
