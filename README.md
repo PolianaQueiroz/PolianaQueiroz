@@ -1,7 +1,7 @@
 ### Oiii, eu sou a Poliana 👋
 
-- 🔭 Atualmente sou estudante do curso de Egenharia de Software
-- 📫 Contate-me no e-mail: poliana.santos.queiroz@gmail.com
+- 🔭 Formada no curso de Bacharelado em Egenharia de Software
+- 📫 Contate-me no e-mail: poliana.dev.psq@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
