@@ -1,6 +1,7 @@
 ### Oiii, eu sou a Poliana 👋
 
-- 🔭 Formada no curso de Bacharelado em Egenharia de Software
+- 🔭 Formada no curso de Bacharelado em Egenharia de Software pelo Instituto Federal de Pernambuco (IFPE)
+- Mestranda no Programa de Mestrado em Engenharia da Computação na Unibersidade de Pernambuco (UPE)
 - 📫 Contate-me no e-mail: poliana.dev.psq@gmail.com
 - 😄 Pronouns: ela/dela
 
