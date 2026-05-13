@@ -2,7 +2,7 @@
 
 - 🔭 Formada no curso de Bacharelado em Egenharia de Software pelo Instituto Federal de Pernambuco (IFPE)
 - Mestranda no Programa de Mestrado em Engenharia da Computação na Universidade de Pernambuco (UPE)
-- 📫 Contate-me no e-mail: poliana.dev.psq@gmail.com
+- 📫 Contate-me no e-mail: poliana.santos.queiroz@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
